@@ -7,4 +7,3 @@ def arguments(*args):
 arguments(1,2,3,4,5,85)
 
 #Сумма аргументов равна: 100
-
